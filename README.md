@@ -1,3 +1,3 @@
-# < font color = red> *_Exploratory Data Analysis_* </font>
+# **_Exploratory Data Analysis_**
 _____________________________________________________________________
-## Exploratory Data Analysis course offered by Johns Hopkins University on Coursera
+## **Exploratory Data Analysis course offered by Johns Hopkins University on Coursera**
